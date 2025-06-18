@@ -1,15 +1,4 @@
 # Tableau-Project
-# Project 2: 
-
-# Team Name and Members 
-Group 9 <be>
-
-Claire Friers - cef19295@uga.edu <br/>
-Anastasia Draughn - agd82889@uga.edu <br/>
-Justin Tran - jat966554@uga.edu <br/>
-Jack Saylor - jds56127@uga.edu <br/>
-Ayaan Godil - aag53475@uga.edu
-
 # Description of Data Set
 This dataset contains real estate transactions in Conneticut from 2001 through 2022. The data was obtained from the Conneticut State Department of Housing's open data resources. It includes 1,097,629 rows and 14 columns, with each row representing a property sale. 
 
