@@ -16,13 +16,13 @@ Overall, this dataset offers a comprehensive view of two decades of property sal
 
 ![Screenshot 2025-04-28 at 6 32 28 PM](https://github.com/user-attachments/assets/a066956b-6b5f-42c9-a9ed-7a62c0f2b3dc)
 
-To break up differing wealth classes in tableau, we had to create the above calculated field in Tableau. This takes the results from our box and whisker plot that breaks down the average home sales amounts across towns and puts them into one of the four categories we defined.
+To break up differing wealth classes in tableau, I had to create the above calculated field in Tableau. This takes the results from our box and whisker plot that breaks down the average home sales amounts across towns and puts them into one of the four categories I defined.
 
 ![calc](https://github.com/clairefriers/Project2/blob/main/calc.png)
 
-To conduct the analysis of my second question, we had to create the above calculated field in Tableau. This is a year over year growth rate in median home sale prices across the filtered towns. The importance of using this calculation is because we want to assess relative changes across towns rather using the absolute numbers since there can be a lot of variation in the towns.
-The next thing we did was make it so we were only analyzing data from 2005 through 2011. This enables us to keep the graph readable and easy to signal in on the years that are important for answering our question in a short term impact analysis. Which in this case is looking at the 3 years before, the year or and the 3 years after the 2008 recession.
-Finally we also chose to only look at 9 towns, filtering 3 low price, 3 middle price and 3 high price towns. Since we put these each on 3 different graphs, I edited the y axis ranges to keep the visualizations consistent to enable fair comparisons. 
+To conduct the analysis of my second question, I created the above calculated field in Tableau. This is a year over year growth rate in median home sale prices across the filtered towns. The importance of using this calculation is because we want to assess relative changes across towns rather using the absolute numbers since there can be a lot of variation in the towns.
+The next thing I did was make it so we were only analyzing data from 2005 through 2011. This enables us to keep the graph readable and easy to signal in on the years that are important for answering our question in a short term impact analysis. Which in this case is looking at the 3 years before, the year or and the 3 years after the 2008 recession.
+Finally I chose to only look at 9 towns, filtering 3 low price, 3 middle price and 3 high price towns. Since I put these each on 3 different graphs, I edited the y axis ranges to keep the visualizations consistent to enable fair comparisons. 
 
 
 # Question 1 
